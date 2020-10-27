@@ -1,0 +1,35 @@
+                                  Ministério da Defesa
+                                  Exército  Brasileiro
+                         Secretaria de Tecnologia da Informação
+                             Diretoria de Serviço Geográfico
+                                 3ª DIV DE LEVANTAMENTO
+
+
+
+                               CÁLCULO DE ÁREA E PERÍMETRO
+
+
+
+NOME DA ÁREA:     TESTE
+
+
+
+ PONTO           COORD E        COORD N     AZ PLANO     DIST(m)       RUMO PLANO      ANG TOPOG
+M1             677834.48     7496535.31   315°50'38"    12.00         44°09'22" NO  90°01'10"
+M2             677826.12     7496543.92   45°51'47"     15.02         45°51'47" NE  89°58'51"
+M3             677836.9      7496554.38   45°53'20"     10.03         45°53'20" NE  179°58'27"
+M4             677844.1      7496561.36   45°53'29"     5.00          45°53'29" NE  179°59'51"
+M5             677847.69     7496564.84   135°56'45"    11.99         44°03'15" SE  89°56'44"
+M6             677856.03     7496556.22   225°51'49"    30.03         45°51'49" SO  90°04'56"
+
+
+ÁREA:          360,43m²
+
+PERÍMETRO:     84,07m
+
+
+DADOS DE ENTRADA:
+
+DECLINAÇÃO MAGNÉTICA:      0° 0' 0"
+CONVERGÊNCIA MERIDIANA:    0° 0' 0"
+KAPA INICIAL:                1

@@ -20,7 +20,7 @@ for k, v in _dict.items():
 polygon = Polygon(poly)
 a = polygon.area
 b = polygon.length
-print(a,', ',b)
+print(_dict)
 
 # squirtle = turtle.Turtle()
 # squirtle.penup()
